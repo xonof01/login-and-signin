@@ -1,0 +1,8 @@
+.container-signin {
+  position: relative;
+  top: -50px;
+  height: 500px;
+}
+::placeholder {
+  color: rgb(255, 255, 255);
+}
